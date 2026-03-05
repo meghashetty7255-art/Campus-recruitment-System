@@ -1,2 +1,7 @@
 # Campus-recruitment-System
-Campus recruitment System using Machine Learning 
+This project focuses on analyzing and predicting campus recruitment outcomes using machine learning techniques. The goal is to build a system that can determine whether a student is likely to be placed based on academic performance, work experience, and other relevant factors. The project was developed as part of a machine learning internship and demonstrates how data-driven methods can improve recruitment analysis.
+The dataset used in this project contains information about students, including secondary and higher secondary percentages, degree specialization, work experience, employability test scores, MBA percentage, and placement status. Data preprocessing was performed to handle missing values, remove unnecessary features, and prepare the dataset for model training.
+
+The implementation was carried out using Python in Jupyter Notebook, with libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn for data manipulation, visualization, and machine learning. Exploratory Data Analysis (EDA) was conducted to understand patterns in the dataset, followed by splitting the data into training and testing sets.
+
+A Logistic Regression model was trained to classify whether a student would be placed or not. The model achieved an accuracy of approximately 81–83%, showing that machine learning can effectively assist in predicting recruitment outcomes. This project demonstrates the potential of ML techniques in improving recruitment decision-making and providing insights into factors influencing student placement
